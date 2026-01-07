@@ -25,6 +25,13 @@ npm install
 npm start
 Backend server will start on:
 http://localhost:5000
+
+
+# api--->
+post -http://localhost:5000/documents/uploadhttp://localhost:5000/documents/upload
+GET:  http://localhost:5000/documents
+GET: http://localhost:5000/documents/:id
+DELETE: http://localhost:5000/documents/:id
 #3. Run Frontend
 cd frontend
 npm install
