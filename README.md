@@ -6,7 +6,7 @@ This is a simple file uploader project with backend and frontend.
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/ritikkr07/final.git
+git clone https://github.com/ritikkr07/IN18-labs-file-uploader...git
 
 2. Run Backend
 cd backend
